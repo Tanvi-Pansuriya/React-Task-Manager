@@ -32,8 +32,8 @@ A modern, responsive Todo List application built with React, Redux, and Bootstra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-todo-list.git
-   cd react-todo-list
+   git clone https://github.com/Tanvi-Pansuriya/React-Task-Manager.git
+   cd React-Task-Manager
    ```
 
 2. Install dependencies:
